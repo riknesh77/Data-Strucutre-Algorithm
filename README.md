@@ -1,9 +1,6 @@
+ Tasks for ADS May 2025.
 
-# TEB1113_DSA_22011479
-
-Lab tasks for ADS May 2025.
-
-## Lab Tasks
+## Tasks
 
 | Date       | Lab | Tasks                                |
 |------------|-----|--------------------------------------|
